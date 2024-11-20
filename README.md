@@ -1,7 +1,5 @@
-# 🌟 Welcome to Brandon Muse's Portfolio! 🌟  
-
-![GitHub Banner](![github-header-image](https://github.com/user-attachments/assets/7e9ecd8c-0f8d-4453-ab4a-885ac13e7bd4)
-)  
+# <h1>Hi, I'm Brandon, an <a href="https://www.linkedin.com/in/brandoncmuse/">IT Professional</a>☺</h1>
+  
 
 ## 🚀 About Me  
 
@@ -27,16 +25,17 @@ Check out my projects and certifications below to explore my journey in the tech
 ## 🏆 Featured Projects  
 
 ### 1️⃣ **Help Desk System Deployment**  
-- Deployed and configured **osTicket** on Azure Virtual Machines.  
-- Managed resources and optimized functionality for a robust help desk infrastructure.  
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle) 
 
 ### 2️⃣ **Active Directory in Azure**  
-- Implemented a cloud-based Active Directory environment simulating on-premises infrastructure.  
-- Streamlined user administration and security policy enforcement using PowerShell.  
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+
 
 ### 3️⃣ **Networking Exploration with Azure**  
-- Built and analyzed Azure Virtual Machines with **Wireshark**.  
-- Enhanced network security using **Network Security Groups**.  
+- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 ---
 
