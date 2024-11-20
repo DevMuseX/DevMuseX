@@ -1,6 +1,7 @@
 # 🌟 Welcome to Brandon Muse's Portfolio! 🌟  
 
-![GitHub Banner](https://via.placeholder.com/1000x200?text=Brandon+Muse+-+IT+and+Cyber+Security+Professional)  
+![GitHub Banner](![github-header-image](https://github.com/user-attachments/assets/7e9ecd8c-0f8d-4453-ab4a-885ac13e7bd4)
+)  
 
 ## 🚀 About Me  
 
