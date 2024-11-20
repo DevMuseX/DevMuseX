@@ -1,16 +1,54 @@
-## Hi there 👋
+# 🌟 Welcome to Brandon Muse's Portfolio! 🌟  
 
-<!--
-**DevMuseX/DevMuseX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Banner](https://via.placeholder.com/1000x200?text=Brandon+Muse+-+IT+and+Cyber+Security+Professional)  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm **Brandon Muse**, a passionate IT and Cyber Security professional with over 8 years of experience in technical support and financial management. I specialize in:  
+- 🛠️ **Technical Support & Troubleshooting**  
+- 🔒 **Cyber Security Incident Response**  
+- ☁️ **Cloud Computing & Virtual Machines**  
+- 📈 **Financial Management Systems**  
+
+Check out my projects and certifications below to explore my journey in the tech world!  
+
+---
+
+## 💡 Skills & Expertise  
+
+- **System Administration**: Active Directory, Azure, PowerShell  
+- **Networking**: TCP/IP, VLANs, VPNs, VOIP  
+- **Cybersecurity**: SIEM, Incident Response, KQL Queries  
+- **Technical Support**: Help Desk, Ticketing Systems, Remote Desktop  
+
+---
+
+## 🏆 Featured Projects  
+
+### 1️⃣ **Help Desk System Deployment**  
+- Deployed and configured **osTicket** on Azure Virtual Machines.  
+- Managed resources and optimized functionality for a robust help desk infrastructure.  
+
+### 2️⃣ **Active Directory in Azure**  
+- Implemented a cloud-based Active Directory environment simulating on-premises infrastructure.  
+- Streamlined user administration and security policy enforcement using PowerShell.  
+
+### 3️⃣ **Networking Exploration with Azure**  
+- Built and analyzed Azure Virtual Machines with **Wireshark**.  
+- Enhanced network security using **Network Security Groups**.  
+
+---
+
+## 📜 Certifications  
+
+- **CompTIA Security+**  
+- **ITIL 4 Foundation**  
+- **Google Cybersecurity Certificate**  
+- And more...  
+
+---
+
+## 🌐 Connect with Me!  
+
+- **Email**: [Musebrandonc@gmail.com](mailto:Musebrandonc@gmail.com)  
+- **LinkedIn**: [Brandon Muse](https://www.linkedin.com/in/brandoncmuse/)  
