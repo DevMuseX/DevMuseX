@@ -31,7 +31,7 @@ Check out my projects and certifications below to explore my journey in the tech
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DevMuseX/ticket-lifecycle) 
 
 ### 2️⃣ **Active Directory in Azure**  
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DevMuseX/configure-ad/tree/main)
 
 
 ### 3️⃣ **Networking Exploration with Azure**  
