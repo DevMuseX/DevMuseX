@@ -35,7 +35,7 @@ Check out my projects and certifications below to explore my journey in the tech
 
 
 ### 3️⃣ **Networking Exploration with Azure**  
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DevMuseX/azure-network-protocols/tree/main)
 
 ---
 
