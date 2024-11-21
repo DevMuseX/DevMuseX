@@ -28,7 +28,7 @@ Check out my projects and certifications below to explore my journey in the tech
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/DevMuseX/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/DevMuseX/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle) 
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/DevMuseX/ticket-lifecycle) 
 
 ### 2️⃣ **Active Directory in Azure**  
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
